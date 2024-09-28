@@ -24,9 +24,6 @@ I enjoy playing piano. I play sports such as table tennis and swimming. Cooking 
 - **[Apr. 2024]** Completed my Master's in Data Science and Computing from Sri Sathya Sai Institute of Higher Learning.
 
 
-<!--- {% include_relative _includes/publications.md %}
-
-           {% include_relative _includes/services.md %}    -->
 
 ## Presentations and Talks: 
 - **[Oct. 2024]** Introduction to Vision Transformers at Sri Sathya Sai Institute of Higher Learning (Upcoming)
