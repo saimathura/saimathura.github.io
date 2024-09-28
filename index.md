@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the department of Artificial Intelligence at IIT Hyderabad. I am fortunate to be a part of the Machine Learning and Vision group supervised by [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). 
+I am a Research Assistant in the Department of Artificial Intelligence at IIT Hyderabad. I am fortunate to be a part of the Machine Learning and Vision group aka Lab 1055 supervised by [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). 
 
 ## Research Interests
 
-- Computer Vision, Deep Learning, Tiny Object detection, Aerial/Oriented Object Detection.
+- Computer Vision, Deep Learning, Tiny Object detection, Aerial/Oriented Object Detection, Multi-Task Learning, Reinforcement Learning.
 
 ## Brief objectives of my Research work in PhD:
 
