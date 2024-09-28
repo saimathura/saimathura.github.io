@@ -13,8 +13,8 @@ I am a Research Assistant in the Department of Artificial Intelligence at IIT Hy
 ## My Current Works:
 
 Currently, I'm working towards 2 things.
-**LoRA for Multi-Task Learning:** I am developing cutting-edge methods for parameter-efficient training in Multi-Task Learning (MTL) architectures. This research focuses on optimizing model adaptation for multiple tasks while minimizing the number of trainable parameters, contributing to advancements in efficiency and performance in deep learning models.
-**Efficient Object Detection in Transformers:** In this, I am working on optimizing attention mechanisms in DETR-like models to enhance the trade-off between computational efficiency and detection accuracy. This research focuses on improving token selection for more precise object detection while reducing unnecessary computational overhead. 
+- **LoRA for Multi-Task Learning:** I am developing cutting-edge methods for parameter-efficient training in Multi-Task Learning (MTL) architectures. This research focuses on optimizing model adaptation for multiple tasks while minimizing the number of trainable parameters, contributing to advancements in efficiency and performance in deep learning models.
+- **Efficient Object Detection in Transformers:** In this, I am working on optimizing attention mechanisms in DETR-like models to enhance the trade-off between computational efficiency and detection accuracy. This research focuses on improving token selection for more precise object detection while reducing unnecessary computational overhead. 
 
 ## Hobbies: 
 I enjoy playing piano. I play sports such as table tennis and swimming. Cooking is also one of my favourite pastimes. Additionally, I do Music composing and Music Production in my free time.
