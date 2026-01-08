@@ -8,7 +8,7 @@ I am a Research Assistant in the Department of Artificial Intelligence at IIT Hy
 
 ## Research Interests
 
-- Computer Vision, Deep Learning, Tiny Object detection, Aerial/Oriented Object Detection, Multi-Task Learning, Reinforcement Learning.
+- Conformal Prediction, Concept-Bottleneck Models, Computer Vision, GANs, Reinforcement Learning, Deep Learning, Tiny Object Detection, Aerial/Oriented Object Detection, Multi-Task Learning.
 
 ## Current Works:
 
