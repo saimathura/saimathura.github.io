@@ -607,3 +607,48 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.blog-post {
+  line-height: 1.8;
+}
+
+.blog-post .post-title {
+  font-size: 1.6rem;
+  margin-bottom: 0.25em;
+}
+
+.blog-post .post-subtitle {
+  font-size: 1.1rem;
+  color: #777;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.blog-post .post-meta {
+  font-size: 0.85rem;
+  color: #999;
+  margin-bottom: 1.5em;
+}
+
+.blog-post blockquote {
+  border-left: 3px solid #39c;
+  padding: 0.5em 1em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: #555;
+}
+
+@media (prefers-color-scheme: dark) {
+  .blog-post .post-subtitle {
+    color: #aaa;
+  }
+
+  .blog-post blockquote {
+    border-left-color: rgb(62, 183, 240);
+    color: #bbb;
+  }
+}
+
+.blog-entry {
+  margin-bottom: 0.5em;
+}

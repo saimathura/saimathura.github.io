@@ -24,6 +24,9 @@ I enjoy playing piano. I play sports such as table tennis and swimming. Cooking 
 
 
 
+## Blog
+- **[Mar. 2026]** [The Art of Being a Rock: How Optimistic Nihilism Saved Me from My Own Ambition]({{ site.baseurl }}/blog)
+
 ## Presentations and Talks: 
 - **[Oct. 2024]** Introduction to Vision Transformers at Sri Sathya Sai Institute of Higher Learning (Upcoming)
 - **[Aug. 2024]** In-depth Explanation of Transformers to DRDO scientists.
